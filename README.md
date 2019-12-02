@@ -8,7 +8,10 @@ Le site sera responsive et coder en HTML , CSS ,PHP , FLEXBOX , J.S , API , BOOT
 
 Lien du site : 
 
+## Mockup : 
+
 Photo du site ici :
+
 
 ## Composition du site :
 Accueil
